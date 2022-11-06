@@ -9,7 +9,7 @@ pkg update && pkg upgrade -y
 pkg install git python -y
 pip install requests
 pip install fake_useragent
-git clone https://github.com/twincry/brutalspam
+git clone https://github.com/hekelnub/brutalspam
 cd brutalspam
 python run.py
 ```
